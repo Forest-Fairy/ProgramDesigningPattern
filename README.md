@@ -1,4 +1,5 @@
-# 设计模式学习 [#READ IN ENGLISH]("https://www.runoob.com/design-pattern/design-pattern-tutorial.html")
+# 设计模式学习 
+[READ IN ENGLISH]("https://www.runoob.com/design-pattern/design-pattern-tutorial.html")
 
 ## 1. 创建型模式(5种-简单工厂不算)
 * 单例模式
